@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a6c0393-fd70-4d47-81e8-d66865801265" name="Changes" comment="data cleaning">
+    <list default="true" id="7a6c0393-fd70-4d47-81e8-d66865801265" name="Changes" comment="data manipulaton">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
@@ -102,13 +102,22 @@
       <option name="project" value="LOCAL" />
       <updated>1758879926022</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="data manipulaton">
+      <option name="closed" value="true" />
+      <created>1758903665886</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758903665886</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project setup" />
     <MESSAGE value="update scope, obejctive and pattern" />
     <MESSAGE value="data cleaning" />
-    <option name="LAST_COMMIT_MESSAGE" value="data cleaning" />
+    <MESSAGE value="data manipulaton" />
+    <option name="LAST_COMMIT_MESSAGE" value="data manipulaton" />
   </component>
 </project>
