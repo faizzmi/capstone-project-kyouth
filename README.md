@@ -1,14 +1,11 @@
 # Cost of Living Pressures for Low-Income Households
 
 ## Introduction
-The rising cost of living is a pressing concern, especially for low-income households earning less than RM3,000 per month.  
-Understanding how macroeconomic factors such as inflation, consumer prices, and population demographics intersect helps policymakers and businesses design strategies to improve affordability and financial resilience.
-
 ---
+The rising cost of living is a pressing issue, especially for low-income households earning less than RM3000 per month. Understanding how macroeconomic factors such as inflation, consumer prices, and population demographics intersect can help policymakers and businesses create strategies that improve affordability and economic resilience. This analysis integrates multiple datasets covering household CPI, state-level inflation, population demographics, and expenditure classification—to uncover meaningful insights into cost of living pressures in Malaysia.
 
 ## Problem Statement
-While consumer price inflation is widely monitored, less attention has been given to how these trends specifically affect low-income households at the state and demographic levels. Without linking CPI trends to population structures and low-income household indices, it is difficult to identify the most vulnerable groups.
-
+The rising cost of living is a pressing issue, especially for low-income households earning less than RM3000 per month. Understanding how macroeconomic factors such as inflation, consumer prices, and population demographics intersect can help policymakers and businesses create strategies that improve affordability and economic resilience. This analysis integrates multiple datasets covering household CPI, state-level inflation, population demographics, and expenditure classification—to uncover meaningful insights into cost of living pressures in Malaysia.
 This project addresses the following questions:
 
 - How do national low-income CPI trends compare with state-level CPI trends across divisions of goods and services?  
